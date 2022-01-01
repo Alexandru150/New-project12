@@ -1,0 +1,58 @@
+@keyframes rotate { 
+    
+}
+
+
+h1 {color: red;
+    text-align: center;
+    padding: 1.5%
+}
+    p {color:cornflowerblue;
+text-align:center and justify;
+font-size: 25px;
+display: block;
+margin: 0 auto;
+width: 70%}
+p {color: red}
+.tip-0 {text-align: left;
+font-size: 15px;}
+.tip-1 {color:rgb(130, 1, 250) }
+.tip-2 {color: rgb(132, 0, 255)}
+.tip-3 {color:rgba(2, 243, 252, 0.575);
+ text-align: left }
+.tip-4 {color:rgb(213, 250, 1)}
+.tip-5 {color:lawngreen}
+.tip-6 {color: lawngreen;
+font-size: 23px;
+}
+.wio-1 {color: rgb(204, 240, 157)}
+h2 {margin-top: 25px;
+font-size: 30px;
+color:rgb(8,241, 210);
+text-align: center
+}
+body {background: url(https://oir.mobi/uploads/posts/2021-03/thumbs/1616993335_20-p-stilnii-chernii-fon-22.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+font-family: sans-serif;
+background-attachment: fixed;}
+h3 { margin-top: 15px;
+    font-size: 30px;
+    color:rgb(8, 241, 210);
+    text-align: center
+}
+img {border-radius: 50px}
+b {color:rgb(136, 44, 1)}
+h4 { text-align: center;
+font-size:  25px;
+color:rgb(8, 241, 210)
+}
+.img-1 { border-radius: 0%;
+} 
+.img-2 {border-radius: 50%}
+h5 {color: rgb(39, 151, 136);
+text-align: center;
+font-size: 25px
+}
+.p-1 {color:rgb(69, 224, 217)}
